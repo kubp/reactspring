@@ -31,13 +31,9 @@ public class GroupTest {
     }
 
     @Test
-    public void justTesting() {
-        System.out.println("---------test,test,test-------");
+    public void testing() {
+        System.out.println("test");
     }
-
-    @Test
-    public void againTesting() {
-        System.out.println("---------Timo, Timo, Timo-------");
-    }
+    
 
 }
