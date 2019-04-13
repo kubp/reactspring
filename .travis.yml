@@ -12,3 +12,8 @@ before_install:
 branches:
  only:
   - test
+deploy:
+ provider: heroku
+ api_key:
+  secure: "9808a904-fce1-413e-9eb3-be16f49d2c86"
+  app: e1900020reactspring
